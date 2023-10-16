@@ -718,6 +718,7 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 - [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 - [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 - [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
+- [Supabase](https://www.supabase.com) - An open source backend-as-a-service built on Postgres. Includes auth, realtime, file storage, functions, and a Vector DB. ([Source Code](https://github.com/supabase/supabase)) `Apache-2.0` `Nodejs/Docker`
 
 
 ### DNS
